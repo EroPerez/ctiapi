@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 ctiapi
 
 **ctiapi** es un proyecto Java basado en Maven, diseñado para [breve descripción del propósito del proyecto].
@@ -35,4 +35,3 @@ mvn package
 ---
 
 💻 *Desarrollado con pasión por [tu nombre o equipo]*
-```
