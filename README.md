@@ -1,7 +1,7 @@
 
 # 🚀 ctiapi
 
-**ctiapi** es un proyecto Java basado en Maven, diseñado para [breve descripción del propósito del proyecto].
+**ctiapi** es un proyecto Java basado en Maven, diseñado para manejo de API socifi.
 
 ## 📁 Estructura del Proyecto
 
@@ -34,4 +34,4 @@ mvn package
 
 ---
 
-💻 *Desarrollado con pasión por [tu nombre o equipo]*
+💻 *Desarrollado con pasión por Ero*
